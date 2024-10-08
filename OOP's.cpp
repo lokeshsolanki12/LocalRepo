@@ -1,6 +1,6 @@
 //#include<iostream>
 // using namespace std;
-// class Student{   // yaha pr student ek daTa type hai jo mene create kiaa hai or iski help se mai bahut se veriable isme add kar sakta hu
+// class Student{   
 // public:
 //     string name;
 //     int rno;
@@ -14,9 +14,9 @@
 // }
 // int main(){
 
-//     Student s1;  // yaha s1 ek object hai jisme ham koi bhi veriable ko add karte hai or ise amm s1.ki help se use karte hai
+//     Student s1;  
 //     cout<<"Enter your name"<<endl;
-//     getline(cin, s1.name);         // yaha hamne getline ka use isliye kiaa hai kyoki hame apna jo name hai vo pura read karvana hai or cin sirf ek word ko hi read karta hai or output vahi de deta ahi
+//     getline(cin, s1.name);         
 //     cout<<"Enter your roll no"<<endl;
 //     cin>>s1.rno;
 //     cout<<"Enter your gpa"<<endl;
@@ -50,7 +50,7 @@
 
 #include<iostream>
 using namespace std;
-class Student{   // yaha pr student ek daTa type hai jo mene create kiaa hai or iski help se mai bahut se veriable isme add kar sakta hu
+class Student{   
 public:
     string name;
     int rno;
