@@ -48,40 +48,40 @@
 // }
 
 
-#include<iostream>
-using namespace std;
-class Student{   
-public:
-    string name;
-    int rno;
-    float gpa;
-};
+// #include<iostream>
+// using namespace std;
+// class Student{   
+// public:
+//     string name;
+//     int rno;
+//     float gpa;
+// };
 
-void print(Student s){
+// void print(Student s){
      
-     cout<< s.name <<endl << s.rno <<endl<< s.gpa <<endl;
+//      cout<< s.name <<endl << s.rno <<endl<< s.gpa <<endl;
 
-}
-int main(){
+// }
+// int main(){
 
     
-    Student s1;
-    s1.name = "lokesh solanki";
-    s1.rno = 89;
-    s1.gpa = 9.4;
+//     Student s1;
+//     s1.name = "lokesh solanki";
+//     s1.rno = 89;
+//     s1.gpa = 9.4;
 
-    Student s2;
-    s2.name = "Harsh Parjapat";
-    s2.rno = 90;
-    s2.gpa = 9.9;
+//     Student s2;
+//     s2.name = "Harsh Parjapat";
+//     s2.rno = 90;
+//     s2.gpa = 9.9;
 
-    Student s3;
-    s3.name = "Ankit Mewara";
-    s3.rno = 91;
-    s3.gpa = 9.6;
+//     Student s3;
+//     s3.name = "Ankit Mewara";
+//     s3.rno = 91;
+//     s3.gpa = 9.6;
 
-   print(s1);
-   print(s2);
-   print(s3);
+//    print(s1);
+//    print(s2);
+//    print(s3);
 
-}
+// }
